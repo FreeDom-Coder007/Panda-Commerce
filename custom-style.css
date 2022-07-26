@@ -1,0 +1,15 @@
+.catagory-items-image img{
+    width: 100px;
+ }
+.bg-light-purple{
+    background-color: #fceae8;
+}
+.button-purple{
+    background-color: #ff3382;
+}
+
+.space-beetween{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
